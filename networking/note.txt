@@ -1,0 +1,3 @@
+leader.py - Server for the leader raspberry pi
+
+client.py - will be called by the follower pi/s
